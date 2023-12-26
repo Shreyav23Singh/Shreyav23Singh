@@ -4,10 +4,6 @@
 - 💬 Ask me about **I hold an MCA degree from Lovely Professional University and a BCA degree from Ranchi University. As a fervent software developer, I have had the privilege of working as an associate Java engineer at PWSkills. My primary area of interest lies in web development, where I strive to design websites that are both scalable and efficient. I am motivated to enhance my knowledge in both frontend and backend technologies, and I possess proficiency in a host of programming languages, including HTML, CSS, Java, JavaScript, React.js, as well as Git, GitHub, Bootstrap, and OOPs concepts.**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyav23singh&label=Profile%20views&color=0e75b6&style=flat" alt="shreyav23singh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyav23singh" alt="shreyav23singh" /></a> </p>
-
 - 🔭 I’m currently working on [a website, I am developing a contemporary social application that will have an attractive user interface with a native mobile look and feel. The app will use a unique tech stack and incorporate an infinite scroll feature for exceptional performance. I will be using React JS, Appwrite, TypeScript, and other relevant technologies. The app will focus on addressing the current issue of unemployment by allowing users to post their work in a unique way that will help them grow personally and professionally.](https://github.com/Shreyav23Singh/Jobagram)
 
 - 🌱 I’m currently learning **ReactJS ,React Router & Redux from Udemy**
@@ -22,6 +18,10 @@
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 - ⚡ Fun fact **I find true happiness in creating and sharing knowledge with others, empowering them to reach their full potential both personally and professionally.**
+- 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyav23singh&label=Profile%20views&color=0e75b6&style=flat" alt="shreyav23singh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyav23singh" alt="shreyav23singh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
