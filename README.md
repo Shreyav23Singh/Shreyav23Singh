@@ -1,6 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/5b1d292467a7b41f288e50d450674ef3cfb99862405c58b6d440957ae3519c22/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shreya Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+- 💬 Ask me about **I hold an MCA degree from Lovely Professional University and a BCA degree from Ranchi University. As a fervent software developer, I have had the privilege of working as an associate Java engineer at PWSkills. My primary area of interest lies in web development, where I strive to design websites that are both scalable and efficient. I am motivated to enhance my knowledge in both frontend and backend technologies, and I possess proficiency in a host of programming languages, including HTML, CSS, Java, JavaScript, React.js, as well as Git, GitHub, Bootstrap, and OOPs concepts.**
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyav23singh&label=Profile%20views&color=0e75b6&style=flat" alt="shreyav23singh" /> </p>
@@ -13,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreyav23Singh/Portfolio](https://github.com/Shreyav23Singh/Portfolio)
 -  📝Personal link : [https://linktr.ee/shreyasingh23](https://linktr.ee/shreyasingh23)
-
-- 💬 Ask me about **I hold an MCA degree from Lovely Professional University and a BCA degree from Ranchi University. As a fervent software developer, I have had the privilege of working as an associate Java engineer at PWSkills. My primary area of interest lies in web development, where I strive to design websites that are both scalable and efficient. I am motivated to enhance my knowledge in both frontend and backend technologies, and I possess proficiency in a host of programming languages, including HTML, CSS, Java, JavaScript, React.js, as well as Git, GitHub, Bootstrap, and OOPs concepts.**
 
 - 📫 How to reach me **psshreyasingh23@gmail.com**
 
