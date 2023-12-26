@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1hfLyA2OMWERoiq_cTW60sOig49WUCFITHd5lepdXeqA/edit?usp=sharing](https://docs.google.com/document/d/1hfLyA2OMWERoiq_cTW60sOig49WUCFITHd5lepdXeqA/edit?usp=sharing)
 
-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 - ⚡ Fun fact **I find true happiness in creating and sharing knowledge with others, empowering them to reach their full potential both personally and professionally.**
 
