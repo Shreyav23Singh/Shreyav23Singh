@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 - 💬 Ask me about **I hold an MCA degree from Lovely Professional University and a BCA degree from Ranchi University. As a fervent software developer, I have had the privilege of working as an associate Java engineer at PWSkills. My primary area of interest lies in web development, where I strive to design websites that are both scalable and efficient. I am motivated to enhance my knowledge in both frontend and backend technologies, and I possess proficiency in a host of programming languages, including HTML, CSS, Java, JavaScript, React.js, as well as Git, GitHub, Bootstrap, and OOPs concepts.**
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyav23singh&label=Profile%20views&color=0e75b6&style=flat" alt="shreyav23singh" /> </p>
 
@@ -18,6 +18,8 @@
 - 📫 How to reach me **psshreyasingh23@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1hfLyA2OMWERoiq_cTW60sOig49WUCFITHd5lepdXeqA/edit?usp=sharing](https://docs.google.com/document/d/1hfLyA2OMWERoiq_cTW60sOig49WUCFITHd5lepdXeqA/edit?usp=sharing)
+
+- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 - ⚡ Fun fact **I find true happiness in creating and sharing knowledge with others, empowering them to reach their full potential both personally and professionally.**
 
