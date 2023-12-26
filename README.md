@@ -1,7 +1,14 @@
 [![MasterHead](https://camo.githubusercontent.com/5b1d292467a7b41f288e50d450674ef3cfb99862405c58b6d440957ae3519c22/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shreya Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-- 💬 Ask me about **I hold an MCA degree from Lovely Professional University and a BCA degree from Ranchi University. As a fervent software developer, I have had the privilege of working as an associate Java engineer at PWSkills. My primary area of interest lies in web development, where I strive to design websites that are both scalable and efficient. I am motivated to enhance my knowledge in both frontend and backend technologies, and I possess proficiency in a host of programming languages, including HTML, CSS, Java, JavaScript, React.js, as well as Git, GitHub, Bootstrap, and OOPs concepts.**
+- 💬 Ask me about 
+🔸Have exposure♛ to building professional websites🖥 and front-end applications 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd Technologies✍️ as React.js, Redux, ECMAScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, GitHub, OOPs Concept, SQL, and SEO for web and window-based applications.
+
+🔸Apart from my professional journey, I am a learner 📝 and enthusiastic to learn new tech. I am building several mini & major projects 💼 on Reactjs and other technologies. Also, I have deployed and having live-hosted projects 📽, checkout out my GitHub pages 📒 . And planning to share in YouTube 📲 channel as well.
+
+🔸Responsibilities include developing new user-facing features with React.js 🚀, building reusable front-end components and libraries 🧱, translating designs into high-quality code 💻, optimizing component and application performance 🔍, and troubleshooting bugs 🐛.
+
+🔸Skills: Jest · HTML5 · REST APIs · Cascading Style Sheets (CSS3) · redux · React.js · JavaScript · Java · GitHub · Bootstarp · Postman · Firebase · DSA
 
 
 - 🔭 I’m currently working on [a website, I am developing a contemporary social application that will have an attractive user interface with a native mobile look and feel. The app will use a unique tech stack and incorporate an infinite scroll feature for exceptional performance. I will be using React JS, Appwrite, TypeScript, and other relevant technologies. The app will focus on addressing the current issue of unemployment by allowing users to post their work in a unique way that will help them grow personally and professionally.](https://github.com/Shreyav23Singh/Jobagram)
