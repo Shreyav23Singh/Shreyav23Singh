@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning **ReactJS ,React Router & Redux from Udemy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreyav23Singh/Portfolio](https://github.com/Shreyav23Singh/Portfolio)
+-  📝Personal link : [https://linktr.ee/shreyasingh23](https://linktr.ee/shreyasingh23)
 
 - 💬 Ask me about **I hold an MCA degree from Lovely Professional University and a BCA degree from Ranchi University. As a fervent software developer, I have had the privilege of working as an associate Java engineer at PWSkills. My primary area of interest lies in web development, where I strive to design websites that are both scalable and efficient. I am motivated to enhance my knowledge in both frontend and backend technologies, and I possess proficiency in a host of programming languages, including HTML, CSS, Java, JavaScript, React.js, as well as Git, GitHub, Bootstrap, and OOPs concepts.**
 
